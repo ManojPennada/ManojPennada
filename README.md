@@ -1,5 +1,5 @@
 <h1 align="center">Hello there amigos👋, I'm Manoj</h1>
-<h2>Student at <a href="https://srmap.edu.in/"><img align="center"
+<h2>Student at SRM UNIVERSITY AP<a href="https://srmap.edu.in/"><img align="center"
             src="https://student.srmap.edu.in/srmapstudentcorner/resources/images/srmaplogo.png" alt="SRMAP" height="40"
             width="70" /></a></h2>
 <p align="left"> <img
