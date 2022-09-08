@@ -1,4 +1,7 @@
 <h1 align="center">Hello there amigos👋, I'm Manoj</h1>
+<h2>Student at <a href="https://srmap.edu.in/"><img align="center"
+            src="https://student.srmap.edu.in/srmapstudentcorner/resources/images/srmaplogo.png" alt="SRMAP" height="40"
+            width="70" /></a></h2>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=manojpennada&label=Profile%20views&color=0e75b6&style=flat"
         alt="manojpennada" /> </p>
