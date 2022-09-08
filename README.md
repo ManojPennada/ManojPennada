@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **my academic projects**
 
-- 🌱 I’m currently learning **Web Development as well as Machine Learning on Udemy**
+- 🌱 I’m currently learning **Web Development as well as Machine Learning courses on Udemy**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManojPennada](https://github.com/ManojPennada)
+- 👨‍💻 Some of my projects are available at [Manoj Pennada](https://github.com/ManojPennada)
 
-- 📫 How to reach me **manojpennada@gmail.com**
+- 📫 U can reach me **[Here](manojpennada@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://github.com/ManojPennada" target="blank"><img
+    <a href="https://github.com/ManojPennada" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-            alt="ManojPennada" height="30" width="40"></a>
+            alt="ManojPennada" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/manoj_pennada" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="manoj_pennada" height="30" width="40" /></a>
@@ -52,3 +52,8 @@
             width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> </p>
+<h3 align="left">My Stats:</h3>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=manojpennada&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
+        alt="Manoj's Stats">
+</p>
