@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development as well as Machine Learning courses on Udemy**
 
-- 👨‍💻 Some of my projects are available at [Manoj Pennada](https://github.com/ManojPennada)
+- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/ManojPennada)
 
 - 📫 U can reach me **[Here](manojpennada@gmail.com)**
 
