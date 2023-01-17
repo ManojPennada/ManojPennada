@@ -60,5 +60,5 @@
 </p>
 <h3 align="left">My Stats:</h3>
 <p align="left">
-            <a href = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only">Manoj Stats</a>
+            <a href = "https://github-readme-stats.vercel.app/api?username=ManojPennada">Manoj Stats</a>
 </p>
