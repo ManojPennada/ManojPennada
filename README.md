@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Manoj</h1>
-<h2 align="center">Student at <a href="https://srmap.edu.in/">SRM UNIVERSITY AP <img align="center"
+<!-- <h2 align="center">Student at <a href="https://srmap.edu.in/">SRM UNIVERSITY AP <img align="center"
             src="https://www.fillandfind.com/uploads/logo/SRM-University-Amaravatidetail-at-fillandfind-com-20180221150228505295886.png"
-            alt="SRMAP" height="40" width="40" /></a></h2>
+            alt="SRMAP" height="40" width="40" /></a></h2> -->
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=manojpennada&label=Profile%20views&color=0e75b6&style=flat"
         alt="manojpennada" /> </p>
