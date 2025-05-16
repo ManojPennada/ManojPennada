@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=manojpennada&label=Profile%20views&color=0e75b6&style=flat"
         alt="manojpennada" /> </p>
 
-Intern at Sandisk;
+Interning at Sandisk;
 
     ⚙️ I use daily: .py
     🌍 I automate
